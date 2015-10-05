@@ -1,0 +1,5 @@
+SamsungI8910/SymbianOS/9.1 Series60/3.0
+NokiaN97i/SymbianOS/9.1 Series60/3.0
+NokiaE52-1/SymbianOS/9.1 Series60/3.0 3gpp-gba
+NokiaE5-00/SymbianOS/9.1 Series60/3.0 3gpp-gba
+NokiaC7-00/SymbianOS/9.1 Series60/3.0 3gpp-gba
