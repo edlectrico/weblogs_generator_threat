@@ -27,7 +27,7 @@ referers = ['http://www.elpais.com/',
 	    'https://www.linkedin.com/'
 	   ]
   
-suspicious_ips = ['.10.', '.11.', '.12.', '.13.', '.18.', '.19.']
+suspicious_ips = ['.18.', '.19.']
 
 #suspicious_df = pd.DataFrame(columns='IP')
 
