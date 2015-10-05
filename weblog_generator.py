@@ -41,6 +41,7 @@ def main():
   source = page.text
   resources = []
   a = source.split('href="')
+
   for href in a:
     if ('.html' in href) or ('.jsp' in href):
       resources.append(href.split('"')[0])
@@ -49,6 +50,7 @@ def main():
   user_agents_dir = "user_agents/"
   useragents_list = glob.glob(user_agents_dir + '*.txt')
   all_user_agents = []
+
   for file in useragents_list:
     all_user_agents.append(open(file, 'r').readlines())
 
